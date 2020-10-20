@@ -1,0 +1,5 @@
+﻿  main.cpp
+  intList.cpp
+C:\Users\w3837\Desktop\CS010C\week2\lab_02\lab_02\intList.cpp(22,3): error C2065: 'dumm': undeclared identifier
+C:\Users\w3837\Desktop\CS010C\week2\lab_02\lab_02\intList.cpp(23,2): error C2143: syntax error: missing ';' before '}'
+  Generating Code...
